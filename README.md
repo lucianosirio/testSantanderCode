@@ -2,3 +2,4 @@
 
 ## Salvando modificações no Git / NEW
 
+* uso do comando restore
