@@ -1,0 +1,18 @@
+PROGRAMA SANTANDER CODE
+
+
+MÓDULO GIT
+
+Configuração do Git
+
+AULA 2
+
+#Configuração do Git
+## user:
+git config --global user.name "nome usuário"
+## email:
+git config --global user.email "email"
+
+AULA 3
+
+Git e Versionamento - Repositório
