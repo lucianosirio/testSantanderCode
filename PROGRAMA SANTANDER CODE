@@ -16,3 +16,10 @@ git config --global user.email "email"
 AULA 3
 
 Git e Versionamento - Repositório
+
+AULA 4 Estados do git
+Untracked - 
+Unmodified - esse arquivo já está mapeado
+Modified - arquivo modificados para o próximo commit
+Staged - 
+
